@@ -1,5 +1,7 @@
 ## [V0.1 Build 8](https://github.com/remuslazar/EVPlugFinderPublic/milestone/2?closed=1)
 
+See also https://github.com/remuslazar/EVPlugFinderPublic/milestone/2?closed=1
+
 Release Date: 2016-12-13
 
 - Fastcharging Filter "minimum Power" configurable
