@@ -6,6 +6,7 @@ Release Date: 2016-12-21
 
 - bugfix in "Fault Report" handling. Faulty stations now being detected as such
 - Cosmetic changes in the ChargePoint Detail View, labels, ordering,..
+- App reload current location and charging stations neadby if started after longer then 2 minutes after suspended timestamp (this timeout can be tweaked in future releases)
 - Reload and List Button logic (enable/disable) streamlined with the App logic
 - Network Request Timeout 15 seconds (default was 1 minute)
 - Performance in very bad network situations improved
